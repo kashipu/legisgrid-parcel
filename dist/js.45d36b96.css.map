@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAEA,KACI","file":"js.45d36b96.css","sourceRoot":"..\\src","sourcesContent":["$color-uno: peru;\r\n\r\nbody {\r\n    background-color: $color-uno;\r\n}"]}
