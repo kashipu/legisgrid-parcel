@@ -5,4 +5,4 @@ parcelRequire=function(e,r,t,n){var i,o="function"==typeof parcelRequire&&parcel
 },{}],"QvaY":[function(require,module,exports) {
 "use strict";var s=require("./data.js");require("../scss/main.scss"),console.log((0,s.data)());
 },{"./data.js":"QHdL","../scss/main.scss":"fx60"}]},{},["QvaY"], null)
-//# sourceMappingURL=/js.8c91a559.js.map
+//# sourceMappingURL=/js.aa8c3e83.js.map

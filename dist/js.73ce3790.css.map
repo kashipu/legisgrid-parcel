@@ -1,0 +1,1 @@
+{"version":3,"sources":["scss\\main.scss"],"names":[],"mappings":"AAEA,KACI","file":"js.73ce3790.css","sourceRoot":"..\\src","sourcesContent":["$color-uno: aqua;\r\n\r\nbody {\r\n    background-color: $color-uno;\r\n}"]}
